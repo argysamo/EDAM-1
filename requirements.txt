@@ -1,4 +1,4 @@
-pyyaml[yaml]
+pyyaml
 sqlalchemy
 requests
 bs4
@@ -18,3 +18,4 @@ geopy
 records
 click
 flask_googlemaps
+pylint
